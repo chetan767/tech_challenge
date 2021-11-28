@@ -1,8 +1,14 @@
-# calc_challenge
+# cal
 
-A simple calculator.
 
 ## Getting Started
+
+I cannot record the screen while developing and compiling the app because the system hangs too much that way.
+
+* I have used bloc pattern to manage the change the state of the app.
+* Calculations are stored using hydrated bloc (hive)
+
+
 
 This project is a starting point for a Flutter application.
 For this challenge you are required to create a simple calculator with the following features.
@@ -34,4 +40,4 @@ You can continuously push your in-progress code to your branch. The submission
 will be accepted only once you have pushed the code with the following message in
 your last commit : "Final commit - <your name> - challenge submission".
 
-#### Note: Any push or changes in the 'main' branch will be considered as disqualification.  
+#### Note: Any push or changes in the 'main' branch will be considered as disqualification.
